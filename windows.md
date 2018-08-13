@@ -45,6 +45,15 @@ Successfully installed rails-5.2.1
 11 gems installed
 ```
 
+Para ter certeza que tudo deu certo até aqui, digite o seguinte comando:
+```bash
+rails -v
+```
+A resposta deve ser algo como:
+```bash
+Rails 5.2.1
+```
+
 ## Editor de texto
 
 Para escrever o seu código (ou _codar_, como costumamos dizer), recomendamos que use algum editor de texto próprio para esta atividade. 
