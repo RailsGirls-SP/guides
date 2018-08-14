@@ -4,8 +4,10 @@
 
 O jeito mais simples de instalar o _Ruby_ e na sua máquina é usando o [Rails Installer](http://www.railsinstaller.org/pt-BR).
 
-Baixe o instalador da versão `2.3` do _ruby_. 
-Execute o programa e siga as instruções do instalador. 
+
+Baixe o instalador da versão `2.3` do _ruby_.
+Execute o programa e siga as instruções do instalador.
+
 Durante a instalação, não se esqueça de marcar a opção para instalar o git junto.
 
 Para ter certeza de que deu tudo certo, procure e abra o programa `git bash` no seu computador (isso deve abrir uma tela preta esquisita haha).
@@ -56,7 +58,7 @@ Rails 5.2.1
 
 ## Editor de texto
 
-Para escrever o seu código (ou _codar_, como costumamos dizer), recomendamos que use algum editor de texto próprio para esta atividade. 
+Para escrever o seu código (ou _codar_, como costumamos dizer), recomendamos que use algum editor de texto próprio para esta atividade.
 Os editores recomendados são (qualquer um deles vai servir muito bem para você):
 
 - [Visual Studio Code](https://code.visualstudio.com/)
