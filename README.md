@@ -12,6 +12,7 @@ A participante deve seguir o passo-a-passo dependendo de qual ambiente (Sistema 
 
 PS.: Pode ser que tenha algum errinho nos tutoriais, ou que não estejamos cobrindo algum caso que vocês passem. Se vocês tiverem alguma dificuldade ao instalar tudo, por favor, nos avise abrindo uma issue aqui no repositório, ou mandando uma mensagem pra nós no [contato@railsgirsl.com.br](contato@railsgirsl.com.br).
 
+<br><br><br>
 ## Como contribuir para esse guia
 
 ### Reportando algum problema ou sugerindo alguma mudança
