@@ -18,7 +18,7 @@ ruby -v
 
 Se a resposta for parecida com o texto abaixo, quer dizer que tudo está certo até agora! :tada:
 ```bash
-ruby 2.4.4p296 (2018-03-28 revision 63013) [x64-mingw32]
+ruby 2.3.2p217 (2016-11-15 revision 56796) [x86_64-darwin16]
 ```
 
 ## Rails
