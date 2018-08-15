@@ -5,7 +5,7 @@ Este repositório tem como objetivo principal ajudar as participantes do [Rails 
 
 ### Tutoriais disponíveis
 1. [Guia de instalação](instalacao/README.md)
-2. [Próximos passos](proximos-passos.md)
+2. [Próximos passos (pós evento)](proximos-passos.md)
 
 
 <br><br><br>
