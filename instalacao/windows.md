@@ -42,7 +42,18 @@ ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
 ```
 
 ## SQLite
-TO DO
+
+Para que a gente consiga fazer o workshop, precisamos de um lugar para salvar algumas informações: um banco de dados. No nosso caso, usaremos o **SQLite**. Faça download do [sqlite-tools-win32-x86-3300100.zip](https://www.sqlite.org/download.html) e descompacte os 3 arquivos que tem lá dentro em uma pasta chamada `sqlite`. Depois disso, copie essa pasta para `C:/` (assim você fica com uma pasta chamada `C:/sqlite`. Agora precisamos adicionar esse caminho no _PATH_ do nosso computador.
+
+1. Abra o menu do windows
+2. Clique com o botão direito em _Meu Computador_ e depois clique em _Propriedades_
+3. Clique em _Configurações avançadas do sistema_
+4. Clique em _Variáveis de ambiente_
+5. Nas variáveis do usuário, clique em cima de `PATH` e depois em _Editar_
+6. Adicione em uma linha nova: `C:\sqlite`
+
+## Node
+TODO
 
 ## Rails
 
