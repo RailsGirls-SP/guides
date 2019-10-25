@@ -52,12 +52,17 @@ Para que a gente consiga fazer o workshop, precisamos de um lugar para salvar al
 5. Nas variáveis do usuário, clique em cima de `PATH` e depois em _Editar_
 6. Adicione em uma linha nova: `C:\sqlite`
 
-## Node
-TODO
+## Node e Yarn
+
+Precisaremos de mais duas ferramentas para tudo funcionar lindamente: o NodeJS e o Yarn. 
+- Instalador do node: https://nodejs.org/en/download/
+- Instalador do yarn: https://yarnpkg.com/pt-BR/docs/install#windows-stable
+
+Instale ambos e depois siga para o próximo passo :tada:
 
 ## Rails
 
-Se deu tudo certo na instalação do _ruby_, para instalar o _Rails_ bastar abrir o `git bash` e digitar o seguinte comando:
+Se deu tudo certo nos passos anteriores, para instalar o _Rails_ bastar abrir o `git bash` e digitar o seguinte comando:
 ```bash
 gem install rails
 ```
