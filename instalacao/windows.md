@@ -21,6 +21,29 @@ Se a resposta for parecida com o texto abaixo, quer dizer que tudo está certo a
 ruby 2.3.2p217 (2016-11-15 revision 56796) [x86_64-darwin16]
 ```
 
+Como a versão 2.3 está um pouco velhinha, vamos precisar fazer algumas outras coisinhas para instalar uma mais nova. 
+
+Primeiro, baixe o instalador mais recente do [Ruby + DevKit](https://rubyinstaller.org/downloads/) e o execute em seu computador.
+Selecione todas as caixinhas que aparecem durante a instalação. Após finalizar a instalação, marque a caixinha que diz `Run 'ridk install' ...` e clique em _Finalizar_. O computador vai abrir um terminal, com 3 opções. Digite **3** e aguarde. Se ele perguntar a mesma coisa de novo, apenas aperte _enter_.
+
+Agora, você precisa abrir o "seu computador", na pasta **C:\\**. Lá deve ter aparecido uma pasta do ruby, algo como `C:\Ruby26-x64`. Copie esse caminho. Precisaremos alterar o caminho do computador para o ruby, então:
+1. Abra o menu do windows
+2. Clique com o botão direito em _Meu Computador_ e depois clique em _Propriedades_
+3. Clique em _Configurações avançadas do sistema_
+4. Clique em _Variáveis de ambiente_
+5. Nas variáveis do usuário, clique em cima de `PATH` e depois em _Editar_
+6. Onde tiver algo como `C:\RailsInstaller\Ruby....\bin`, clique em cima e depois em _Editar_ novamente
+7. Troque o que tiver lá para o que a gente copiou antes do primeiro passo, adicionando um _\bin_ no final. Vai ficar algo como `C:\Ruby26-x64\bin`
+
+Para finalizar, feche o _Git Bash_ e abra-o novamente. Digite `ruby -v` nele. Se a resposta for parecida com o texto abaixo, quer dizer que tudo está certo até agora! :tada:
+
+```bash
+ruby 2.6.5p114 (2019-10-01 revision 67812) [x64-mingw32]
+```
+
+## SQLite
+TO DO
+
 ## Rails
 
 Se deu tudo certo na instalação do _ruby_, para instalar o _Rails_ bastar abrir o `git bash` e digitar o seguinte comando:
