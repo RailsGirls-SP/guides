@@ -1,6 +1,6 @@
 # Guias Rails Girls
 
-Este repositório tem como objetivo principal ajudar as participantes do [Rails Girls](railsgirls.com.br) a ter tudo que é preciso para o workshop disponível para consulta.
+Este repositório tem como objetivo principal ajudar as participantes do [Rails Girls](https://railsgirls.com.br/) a ter tudo que é preciso para o workshop disponível para consulta.
 
 ### Tutoriais disponíveis
 
