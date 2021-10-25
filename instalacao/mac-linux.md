@@ -2,7 +2,7 @@
 
 ## Ruby
 
-Primeiramente, abra o seu `terminal` (uma tela preta esquisita) e digite os seguintes comandos para instalar o [RVM](https://rvm.io/)(gerenciador de versões do ruby), já com a última versão estável do *ruby*:
+Primeiramente, abra o seu `terminal` (uma tela preta esquisita) e digite os seguintes comandos para instalar o [RVM](https://rvm.io/)(gerenciador de versões do ruby), já com a última versão estável do [ruby](https://www.ruby-lang.org/en/downloads/releases/):
 ```bash
 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
 
@@ -16,8 +16,10 @@ ruby -v
 
 Se a resposta for parecida com o texto abaixo, quer dizer que tudo está certo até agora! :tada:
 ```bash
-ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]
+ruby 3.0.2p107 (2021-07-07 revision 0db68f0233) [x86_64-darwin16]
 ```
+
+> :warning: Verifique se a versão baixada corresponde a mais estável do [site oficial](https://www.ruby-lang.org/en/downloads/releases/)
 
 ## Rails
 
@@ -28,21 +30,23 @@ gem install rails
 
 A resposta deve ser algo parecida com o texto abaixo:
 ```bash
-Fetching: activesupport-5.2.1.gem (100%)
-Successfully installed activesupport-5.2.1
-Fetching: actionview-5.2.1.gem (100%)
-Successfully installed actionview-5.2.1
-Fetching: actionpack-5.2.1.gem (100%)
-Successfully installed actionpack-5.2.1
-Fetching: activemodel-5.2.1.gem (100%)
-Successfully installed activemodel-5.2.1
-Fetching: activerecord-5.2.1.gem (100%)
-Successfully installed activerecord-5.2.1
-Fetching: railties-5.2.1.gem (100%)
-Successfully installed railties-5.2.1
-Fetching: rails-5.2.1.gem (100%)
-Successfully installed rails-5.2.1
-11 gems installed
+Building native extensions. This could take a while...
+Successfully installed nio4r-2.5.8
+Successfully installed websocket-extensions-0.1.5
+Building native extensions. This could take a while...
+Successfully installed websocket-driver-0.7.5
+Successfully installed actioncable-6.1.4.1
+Successfully installed marcel-1.0.2
+Successfully installed activestorage-6.1.4.1
+Successfully installed actionmailbox-6.1.4.1
+Successfully installed actiontext-6.1.4.1
+Successfully installed thor-1.1.0
+Successfully installed method_source-1.0.0
+Successfully installed railties-6.1.4.1
+Successfully installed sprockets-4.0.2
+Successfully installed sprockets-rails-3.2.2
+Successfully installed rails-6.1.4.1
+14 gems installed
 ```
 
 Para ter certeza que tudo deu certo até aqui, digite o seguinte comando:
@@ -51,7 +55,7 @@ rails -v
 ```
 A resposta deve ser algo como:
 ```bash
-Rails 5.2.1
+Rails 6.1.4
 ```
 
 ## Editor de texto
