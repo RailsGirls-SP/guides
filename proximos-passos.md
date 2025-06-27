@@ -17,8 +17,6 @@ Após isso, aqui estão alguns materiais gratuitos e pagos os quais irão ajudá
 
 [Rails Tutorial](https://www.railstutorial.org/book) - Um ótimo livro o qual possui uma versão HTML gratuita, e uma versão impressa paga. O livro fornece-lhe um ótimo material que não cobririamos em um workshop Rails Girls.
 
-[Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Livro grátis focado na linguagem Ruby pra você que quer se aperfeiçoar e entender a fundo o Ruby.
-
 [Casa do Código - Ruby on Rails](https://www.casadocodigo.com.br/products/livro-ruby-on-rails) - Mais um livro-tutorial para você seguir passo a passo o desenvolvimento de uma app Rails.
 
 ## 2. Construa algo real
@@ -39,17 +37,10 @@ Para continuar interagindo com pessoas com os mesmos interesses há alguns grupo
 
 [Meetup](https://www.meetup.com/) -  Na plataforma do meetup você pode procurar eventos próximos a você! Busque por ‘Ruby’ ou ‘Programação’ para encontrar eventos próximos da sua cidade que você pode participar.
 
-[Women Dev Summit](womendevsummit.com/) - O Women Dev Summit surgiu da união das comunidades de tecnologia Desprograme, PHPWomen, Rails Girls e WoMakersCode, com o objetivo de fornecer uma base técnica e também direcionamento de carreira para que mais mulheres possam ingressar no mundo de TI.
-
-[Desprograme](http://desprograme.com.br/pt/) - O Desprograme nasceu com o objetivo de trazer mais diversidade para a área de tecnologia, com foco em desenvolver essa habilidade nas minoria e mudar o cenário atual.
-
 [Wo Makers Code](http://womakerscode.org/) - A WoMakersCode é uma iniciativa sem fins lucrativos, que busca o protagonismo feminino na tecnologia, através do desenvolvimento profissional e econômico.
 
 [PHP Women](http://phpwomen.org.br/) - Um grupo de mulheres desenvolvedoras, aspirantes e simpatizantes que buscam a disseminação de conhecimento com a linguagem PHP e a criação de um ambiente acolhedor a todas e todos.
 
-[WomenUp Games](http://desprograme.com.br/pt/portfolio-item/women-up-games/) - Tem como missão integrar o maior número de mulheres possível ao mercado tecnológico com enfoque nos game
-
-[Codamos](https://www.codamos.club/eventos) - O Codamos concentra várias informações de eventos, workshops, palestras cursos e oportunidades de networking em todo o Brasil. Lá você consegue ver várias detalhes do evento, se ele é gratuito ou se possui incentivo para mulheres, por exemplo. Você também pode encontrar palestrantes para o seu evento - e também se cadastrar na plataforma como palestrante!
 
 ## 4. Divirta-se
 
